@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+img {
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+body {
+  text-align: center;
+  font-family: 'Times New Roman', cursive;
+  background: white;
+  color: black;
+  font-size:18px;
+}
+h1 {
+ font-size:70px;
+}
+a {
+  color: pink;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+.last-image {
+  height: 280px;
+}
